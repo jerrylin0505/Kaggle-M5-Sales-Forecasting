@@ -15,4 +15,4 @@ Achieved top 5% ranking on Kaggle leaderboard
 * Tensorflow
 
 ## Acknowledgments
-Kaggle M5 Sales Forecasting Competition
+Kaggle M5 Sales Forecasting Competition[https://www.kaggle.com/c/m5-forecasting-accuracy]
